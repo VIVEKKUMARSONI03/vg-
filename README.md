@@ -98,3 +98,5 @@ docs/                      Data mapping and project documentation
 The pinned layers contain 36 state/UT polygons and 735 district polygons; the source metadata reports 736, while the LGD portal displays 784 districts. These third-party boundaries may be simplified, outdated, or disputed. There are no verified block/Gram Panchayat boundaries or LGD join codes, and the official 318-work catalogue remains blocked. Demo records, block/GP labels and coordinates are synthetic; do not present them as actual reporting. Hardware is not integrated. Work records only represent areas entered/imported into the database. See [project status](docs/PROJECT_STATUS.md) and [source mapping](docs/data-source-mapping.md).
 
 Pre-existing works from the former sample seed are deliberately left untouched and are not tagged `isDemo`; review them before presenting the registry as production data.
+
+# vg-
